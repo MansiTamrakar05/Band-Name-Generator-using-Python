@@ -7,7 +7,7 @@ Key features:
 🐶 Asks for user's pet name 
 🔀 Concatenates city and pet name to generate a unique band name 📝 Input cursor on new line for smooth experience.
 
-Technologies used:
+Concepts used:
 print(), input() functions
 String concatenation
 Variable assignment
