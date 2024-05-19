@@ -1,5 +1,5 @@
 # Band-Name-Generator-using-Python
-👩‍💻Enhancing skills with a #Python mini-project focused on crafting unique band names by combining users' pet names with their childhood cities.
+👩‍💻Enhancing skills with a Python mini-project focused on crafting unique band names by combining users' pet names with their childhood cities.
 Key features: 
 
 🎤 Welcoming users for an engaging user experience
